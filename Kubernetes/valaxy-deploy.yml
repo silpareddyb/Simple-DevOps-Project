@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: sahiti-devops-project
-        image: yankils/simple-devops-image
+        image: silpareddy/simple-devops-image
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
